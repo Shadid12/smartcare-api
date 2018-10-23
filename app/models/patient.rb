@@ -5,6 +5,5 @@ class Patient
   field :age, type: Integer
   field :allergies, type: String
   field :primary_diagonosis, type: String
-  field :string, type: String
   field :secondary_diagonosis, type: String
 end
