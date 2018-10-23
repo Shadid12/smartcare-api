@@ -1,0 +1,11 @@
+development:
+  clients:
+    default:
+      uri: 'mongodb://shadid2:longgone123@ds127899.mlab.com:27899/api_boiler'
+
+  options:
+  
+test:
+  clients:
+    default:
+      
