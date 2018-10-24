@@ -3,7 +3,8 @@ class Patient
   field :firstname, type: String
   field :lastname, type: String
   field :age, type: Integer
+  field :gender, type: String
   field :allergies, type: String
   field :primary_diagonosis, type: String
-  field :secondary_diagonosis, type: String
+  field :physician, type: String
 end
