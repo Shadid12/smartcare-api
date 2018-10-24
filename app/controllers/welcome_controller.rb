@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
     def index
-        render json: { 'running': 'ok' }
+        render json: {'Some': 'Guy'}
     end
 end
